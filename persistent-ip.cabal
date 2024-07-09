@@ -1,6 +1,6 @@
 cabal-version:       >=1.10
 name:                persistent-ip 
-version:             0.5.2
+version:             0.6.0
 synopsis:            Code for using the ip package with yesod
 description:         Please see README.md
 homepage:            https://github.com/andrewthad/yesod-ip#readme
